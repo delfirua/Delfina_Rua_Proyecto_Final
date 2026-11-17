@@ -33,7 +33,7 @@ session_start();
         <a class="btn" href="login.php">Iniciar sesión</a>
     <?php endif; ?>
 
-    <img class="foto-index" src="img/banner.jpg" alt="Viajes Destinia">
+     <img class="foto-index" src="img/banner.jpg" alt="Viajes Destinia">
 </div>
 
 </body>
